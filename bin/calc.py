@@ -18,6 +18,8 @@ def rem(x,y):
 	z = x%y
 	return z
 
+print ("Simple Calculator")
+print ("========================")
 a = float(input("Input your first number = "))
 b = float(input("Input your second number = "))
 
