@@ -5,7 +5,7 @@ from git import *
 
 userhome = os.path.expanduser("~")
 g = Git(userhome + "/local-repo/")
-logs = g.log("--pretty='COM%s'", "--date=short", "--name-only").split('COM')
+logs = g.log("--pretty='COM%s'", "--date=short", "--name-only", "--graph").split('COM')
 
 for log in logs:
 	print (log)
