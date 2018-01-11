@@ -1,0 +1,3 @@
+1. Classification of commit, committer, author, date, message etc.
+2. Finding reason of the code changes
+3. 
