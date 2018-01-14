@@ -3,3 +3,4 @@
 3. Association rule mining for finding the pattern of code changes
 4. Comparing number of commit, number of committer, number of author, number of changes (add_loc, del_loc), date etc. between projects with the same programming language.
 5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of author, the starting date of commit etc.
+6. TDA Implementation
