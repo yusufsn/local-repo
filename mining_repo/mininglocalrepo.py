@@ -19,7 +19,7 @@ for i in range(0, len(dir_list)):
 		dir_name = str(dir_list[i]).replace(userhome + r'/local-repo/',"")
 		proj[dir_name] = []
 		out = p.stdout.readlines()
-		sys.stdout.write("\rExtracting features from files : %i" % (i+1))
+		sys.stdout.write("\rExtracting features from files : %i " % (i+1))
 		sys.stdout.flush()
 		if out != []:
 			for line in out:
@@ -29,7 +29,7 @@ for i in range(0, len(dir_list)):
 					temp2.remove(temp2[0])
 				proj[dir_name].append({
 					'com_num': temp2[0],
-					'email': str(temp2[1])
+					'email': str(temp2[0])
 					})
 			retval = p.wait()
 		else:
@@ -39,3 +39,4 @@ for i in range(0, len(dir_list)):
 				})
 	except Exception as e:
 		print (" --> Found error on " + str(dir_list[i]).replace(userhome + r"/local-repo/"))
+print ("\n")
