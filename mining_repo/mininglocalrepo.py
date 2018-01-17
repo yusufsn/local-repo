@@ -29,7 +29,7 @@ for i in range(0, len(dir_list)):
 					temp2.remove(temp2[0])
 				proj[dir_name].append({
 					'com_num': temp2[0],
-					'email': str(temp2[0])
+					'email': str(temp2[1])
 					})
 			retval = p.wait()
 		else:
