@@ -24,12 +24,12 @@ for i in range(0, len(dir_list)):
 		if out != []:
 			for line in out:
 				temp = line
-				temp2 = str(temp).replace("b'","").replace("\n'","").replace(" ","").split(' ')
+				temp2 = str(temp).replace("b'","").replace("\\n'","").replace("  ","").split(' ')
 				if '' == temp2[0]:
 					temp2.remove(temp2[0])
 				proj[dir_name].append({
 					'com_num': temp2[0],
-					'email': str(temp2[0])
+					'email': str(temp2[1])
 					})
 			retval = p.wait()
 		else:
@@ -40,3 +40,8 @@ for i in range(0, len(dir_list)):
 	except Exception as e:
 		print (" --> Found error on " + str(dir_list[i]).replace(userhome + r"/local-repo/"))
 print ("\n")
+
+#creating json file
+with open(userhome + r'/local-repo/mining_repo/committer.json', 'w') as fjson:
+	json.dump(proj, fjson)
+print ("File committer.json has been created")
