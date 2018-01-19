@@ -1,6 +1,7 @@
-1. Classification of commit, committer, author, date, message etc.
-2. Finding reason of the code changes
-3. Association rule mining for finding the pattern of code changes
-4. Comparing number of commit, number of committer, number of author, number of changes (add_loc, del_loc), date etc. between projects with the same programming language.
-5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of author, the starting date of commit etc.
-6. TDA Implementation
+1. Classification of commit, committer, author, date, message etc. (git log)
+2. Finding reason of the code changes (git diff)
+3. Association rule mining for finding the pattern of code changes (git diff)
+4. Comparing number of commit, number of committer, number of author, number of changes (add_loc, del_loc), date etc. between projects with the same programming language. (git log)
+5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of author, the starting date of commit etc. (git log, git diff)
+6. TDA Implementation in mining software repositories (git log)
+7. Project version comparison (git tag)
