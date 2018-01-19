@@ -1,5 +1,7 @@
 import os, glob, json, sys, subprocess
 
+
+print ("======================================")
 #Create directory list to text file
 userhome = os.path.expanduser('~')
 dir_list = glob.glob(userhome + r'/local-repo/*')
@@ -39,9 +41,10 @@ for i in range(0, len(dir_list)):
 				})
 	except Exception as e:
 		print (" --> Found error on " + str(dir_list[i]).replace(userhome + r"/local-repo/"))
-print ("\n")
 
 #creating json file
 with open(userhome + r'/local-repo/mining_repo/committer.json', 'w') as fjson:
 	json.dump(proj, fjson)
-print ("File committer.json has been created")
+print ("\nFile committer.json has been created")
+
+print ("======================================")
