@@ -5,3 +5,4 @@
 5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of author, the starting date of commit etc. (git log, git diff)
 6. TDA Implementation in mining software repositories (git log)
 7. Project version comparison (git tag)
+8. How frequent are popular Android apps updated? (https://link.springer.com/article/10.1007/s10664-015-9388-2)
