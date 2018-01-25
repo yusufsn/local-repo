@@ -16,7 +16,8 @@ userhome = os.path.expanduser('~')
 
 txtfile = open("dir_list.txt", "r")
 dir_list = txtfile.read().replace(userhome + r'/local-repo/mining_repo/',"").split('\n')
-print("Found " + str(len(dir_list)) + " directories")
+print ("-------------------------------------------------------------")
+print ("Found " + str(len(dir_list)) + " directories in /local-repo/")
 
 #create table header
 jsonfile = userhome + r'/local-repo/mining_repo/committer.json'
@@ -25,7 +26,9 @@ jsonfile = userhome + r'/local-repo/mining_repo/committer.json'
 with open(jsonfile, 'r') as js:
 	data = json.load(js)
 
-print(data)
+print ("=============================================================")
+print ("List of commit number and email:")
+print (data)
 
 project = [val.get('com_num') for sublists in data.values() for val in sublists]
 dev = [val.get('email') for sublists in data.values() for val in sublists]
@@ -38,6 +41,7 @@ dev = set(dev)
 dev = list(dev)
 dev.sort()
 
+print ("=============================================================")
 print ("No. of project : " + str(len(project)))
 print ("No. of dev     : " + str(len(dev)))
 
@@ -69,7 +73,10 @@ with open(userhome + r'/local-repo/mining_repo/devfreq.csv', 'w') as csvfile:
 	for i in range(0, len(dev_freq)):
 		writers.writerow(dev_freq[i])
 	csvfile.close()
-print("File devfreq.csv has been created")
+
+print ("=============================================================")
+print ("Creating the csv file")
+print ("File devfreq.csv has been created")
 
 #configure number of dimensions from csv file
 devno = len(dev)
@@ -79,5 +86,9 @@ top_dev = []
 
 #sort dev freq
 dev_sorted = sorted(chain.from_iterable(data.values()), key=lambda x: x['com_num'], reverse=True)
+print ("=============================================================")
+print ("List of developer ordered by commit number")
 print (dev_sorted)
+print ("-------------------------------------------------------------")
 print ("Top Developer : ", dev_sorted[0])
+print ("=============================================================")
