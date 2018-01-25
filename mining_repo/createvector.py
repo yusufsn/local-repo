@@ -70,3 +70,14 @@ with open(userhome + r'/local-repo/mining_repo/devfreq.csv', 'w') as csvfile:
 		writers.writerow(dev_freq[i])
 	csvfile.close()
 print("File devfreq.csv has been created")
+
+#configure number of dimensions from csv file
+devno = len(dev)
+projno = len(project)
+top_proj = []
+top_dev = []
+
+#sort dev freq
+dev_sorted = sorted(chain.from_iterable(data.values()), key=lambda x: x['com_num'], reverse=True)
+print (dev_sorted)
+print ("Top Developer : ", dev_sorted[0])
