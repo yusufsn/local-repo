@@ -1,4 +1,4 @@
-/Users/YusufNugroho/local-repo/mining_repo
-/Users/YusufNugroho/local-repo/bin
-/Users/YusufNugroho/local-repo/script
-/Users/YusufNugroho/local-repo/text
+/Users/YusufNugroho/local-repo/mining_repo/
+/Users/YusufNugroho/local-repo/bin/
+/Users/YusufNugroho/local-repo/script/
+/Users/YusufNugroho/local-repo/text/

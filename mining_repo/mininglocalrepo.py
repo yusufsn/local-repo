@@ -4,7 +4,7 @@ import os, glob, json, sys, subprocess
 print ("======================================")
 #Create directory list to text file
 userhome = os.path.expanduser('~')
-dir_list = glob.glob(userhome + r'/local-repo/*')
+dir_list = glob.glob(userhome + r'/local-repo/*/')
 print ("Found "+str(len(dir_list))+" directories")
 
 with open ("dir_list.txt", mode="wt", encoding="utf-8") as myfile:
