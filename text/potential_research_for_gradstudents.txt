@@ -6,3 +6,4 @@
 6. TDA Implementation in mining software repositories (git log)
 7. Project version comparison (git tag)
 8. How frequent are popular Android apps updated? (https://link.springer.com/article/10.1007/s10664-015-9388-2)
+9. Comparing the entropy of changes after change of code (https://goo.gl/pYnwJr)
