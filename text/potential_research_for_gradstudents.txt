@@ -10,3 +10,4 @@
 10. Predicting the delay of bug fixing or something else (http://rdcu.be/teAy)
 11. Large-scale GitHub study, containing variables (http://rdcu.be/twSy)
 12. Classification of author's action, i.e update, delete, add, move etc. in GitHub (git log)
+13. Literature review, searching papers from some particular journals / proceedings related with software mining repositories. (http://romisatriawahono.net/publications/2016/wahono-slr-may2016.pdf), (http://journal.ilmukomputer.org/index.php/jse/article/view/47)
