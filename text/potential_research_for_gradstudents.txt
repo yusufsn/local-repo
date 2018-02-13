@@ -11,3 +11,4 @@
 11. Large-scale GitHub study, containing variables (http://rdcu.be/twSy)
 12. Classification of author's action, i.e update, delete, add, move etc. in GitHub (git log)
 13. Literature review, searching papers from some particular journals / proceedings related with software mining repositories. (http://romisatriawahono.net/publications/2016/wahono-slr-may2016.pdf), (http://journal.ilmukomputer.org/index.php/jse/article/view/47)
+14. Classification of changes in a project (libraries, functions, comments, loops etc.) (http://ieeexplore.ieee.org/document/7816466/)
