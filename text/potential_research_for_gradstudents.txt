@@ -1,3 +1,9 @@
+GitHub Projects criterion needs to be met:
+1) Popularity score of at least 100 stars
+2) Modified by at least 50 contributors
+3) Larger than 100 Mb (medium) or 1 Gb (large)
+4) At least 500 code files
+
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
 2. Finding reason of the code changes (git diff)
 3. Association rule mining for finding the pattern of code changes (git diff)
