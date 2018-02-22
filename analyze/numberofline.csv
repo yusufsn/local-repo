@@ -1,0 +1,9 @@
+command,numberoflines
+git log -w --unified=5 | wc -l,6872
+git log --unified=5 | wc -l,6942
+git log -U0 -w | wc -l,5962
+git log -U0 | wc -l,6025
+git log -w --patch | wc -l,6573
+git log --patch | wc -l,6643
+git log --no-merges --shortstat | wc -l,480
+git log --shortstat | wc -l,480
