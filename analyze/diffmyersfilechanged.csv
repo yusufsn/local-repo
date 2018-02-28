@@ -1,0 +1,27 @@
+,filename,SUM #line_changed
+0,.../analyze_localrepocheckpoint.ipynb,2681.0
+2,CommitTest.txt=>text/CommitTest.txt,0.0
+3,README.md,8.0
+4,analyze/analyze_localrepo.ipynb,2680.0
+5,analyze/dir_list.txt,7.0
+6,analyze/metrics1.csv,60.0
+7,analyze/metrics2.csv,60.0
+8,analyze/metrics3.csv,60.0
+9,analyze/metrics4.csv,60.0
+10,analyze/metrics_sum.csv,4.0
+11,analyze/numberofline.csv,9.0
+12,bin/calc.py,33.0
+13,mining_repo/author.py,14.0
+14,mining_repo/committer.json,11.0
+15,mining_repo/createvector.py,83.0
+16,mining_repo/date.py,12.0
+17,mining_repo/dir_list.txt,16.0
+18,mining_repo/log.py,13.0
+19,mining_repo/mininglocalrepo.py,33.0
+20,script/data.csv,21.0
+21,script/helloworld.py,17.0
+22,script/starloop.py,9.0
+23,text/CommitTest.txt,61.0
+24,text/README.md=>README.md,0.0
+26,text/installer.txt,2.0
+27,text/potential_research_for_gradstudents.txt,43.0
