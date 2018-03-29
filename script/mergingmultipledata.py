@@ -4,7 +4,6 @@ import numpy as np
 
 userhome = os.path.expanduser('~')
 filename = userhome + r'/local-repo/script/data.csv' 
-
 data = pd.DataFrame(np.random.randint(low=0, high=10, size=(20,5)),
 					columns=['a', 'b', 'c', 'd', 'e'])
 
