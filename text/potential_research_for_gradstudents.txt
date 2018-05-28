@@ -23,3 +23,4 @@ Dataset collection:
 12. Classification of author's action, i.e update, delete, add, move etc. in GitHub (git log)
 13. Literature review, searching papers from some particular journals / proceedings related with software mining repositories. (http://romisatriawahono.net/publications/2016/wahono-slr-may2016.pdf), (http://journal.ilmukomputer.org/index.php/jse/article/view/47)
 14. Classification of changes in a project (libraries, functions, comments, loops etc.) (http://ieeexplore.ieee.org/document/7816466/)
+15. Systematic mapping study, to visualize the research trends discovery. (https://doi.org/10.1016/j.infsof.2015.03.007)
