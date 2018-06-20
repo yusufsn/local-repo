@@ -1,8 +1,7 @@
-if (age>18) {
-	//check loyalty card
+if (age>=18) {
 	if (loyaltycard) {
 		//give 30% discount
-		price = price * 0.8;
+		price = price * 0.7;
 	}
 	can_watch = true;
 }
