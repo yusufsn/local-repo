@@ -5,7 +5,7 @@ public List<WAL> getWALs() throws IOException
   return Collections.emptyList();
 }
 
-public void init(WALFactory factory, String providerId) 
+public void init(WALFactory factory, String providerId)
 {
   if (!initialized.compareAndSet(false, true))
 
