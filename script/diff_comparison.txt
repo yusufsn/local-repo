@@ -8,7 +8,7 @@ public void init(WALFactory factory, List<WALActionsListener> listeners,
 
 public List<WAL> getWALs() throws IOException {
   if (wal == null) {
-  
+
     return Collections.emptyList();
   }
 }
