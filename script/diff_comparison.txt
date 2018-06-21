@@ -1,13 +1,13 @@
-public void init(WALFactory factory, String providerId) 
-{
-  if (!initialized.compareAndSet(false, true))
-
-  throw new IllegalStateException("WALProvider.init should be called once.");
-}
-
 public List<WAL> getWALs() throws IOException 
 {
   if (wal == null)
 
   return Collections.emptyList();
+}
+
+public void init(WALFactory factory, String providerId) 
+{
+  if (!initialized.compareAndSet(false, true))
+
+  throw new IllegalStateException("WALProvider.init should be called once.");
 }
