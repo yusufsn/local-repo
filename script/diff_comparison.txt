@@ -1,0 +1,12 @@
+public void init(WALFactory factory, List<WALActionsListener> listeners,
+  String providerId) throws IOException {
+  if (!initialized.compareAndSet(false, true)) {
+    throw new IllegalStateException("WALProvider.init should be called once.");
+  }
+}
+
+public List<WAL> getWALs() throws IOException {
+  if (wal == null) {
+    return Collections.emptyList();
+  }
+}
