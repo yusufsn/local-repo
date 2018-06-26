@@ -1,15 +1,8 @@
 public ServerLoad getLoad(final ServerName sn) {
-  return liveServers != null ? liveServers.get(sn) : null;
-}
-
-@InterfaceAudience.Private
-public List<RegionState> getRegionsInTransition() {
-  if (intransition == null) {
-    return Collections.emptyList();
-  }
-  return Collections.unmodifiableList(intransition);
+  ServerMetrics serverMetrics = metrics.getLiveServerMetrics().get(sn);
+  return serverMetrics == null ? null : new ServerLoad(serverMetrics);
 }
 
 public String getClusterId() {
-  return clusterId;
+  return metrics.getClusterId();
 }
