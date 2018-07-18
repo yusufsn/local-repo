@@ -26,3 +26,4 @@ Dataset collection:
 15. Systematic mapping study, to visualize the research trends discovery. (https://doi.org/10.1016/j.infsof.2015.03.007)
 16. Classification of deleted lines as buggylines, function, loop, conditional statement etc. ("Prevalence of Confusing Code in Software Projects" Link: https://atomsofconfusion.com/papers/atom-finder-msr-2018.pdf)
 17. Statistic study (e.g. counting the number of added / deleted lines divided by period, example by year 2010, 2011 etc.)
+18. Finding the version of a project that the most used by developers.
