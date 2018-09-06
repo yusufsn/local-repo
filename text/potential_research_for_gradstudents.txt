@@ -27,3 +27,4 @@ Dataset collection:
 16. Classification of deleted lines as buggylines, function, loop, conditional statement etc. ("Prevalence of Confusing Code in Software Projects" Link: https://atomsofconfusion.com/papers/atom-finder-msr-2018.pdf)
 17. Statistic study (e.g. counting the number of added / deleted lines divided by period, example by year 2010, 2011 etc.)
 18. Finding the version of a project that the most used by developers.
+19. Code comments extraction from code of a programming language (Classification of the content in code comment, e.g. algorithms, links, etc.)
