@@ -28,3 +28,4 @@ Dataset collection:
 17. Statistic study (e.g. counting the number of added / deleted lines divided by period, example by year 2010, 2011 etc.)
 18. Finding the version of a project that the most used by developers.
 19. Code comments extraction from code of a programming language (Classification of the content in code comment, e.g. algorithms, links, etc.)
+20. Predicting the delay of a task based on the due date of the issue and their resolution date. (e.g. issue MYFACES-2262, https://issues.apache.org/jira/browse/MYFACES-2262) (https://dl.acm.org/citation.cfm?id=2916265) ("Predicting Delays in Software Projects Using Networked Classification", Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran, Aditya Ghose)
