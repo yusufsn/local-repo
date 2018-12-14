@@ -9,8 +9,6 @@ Dataset collection:
 2) https://cloud.google.com/bigquery/
 3) https://developers.google.com/bigquery/
 
-
-Potential research topic in SE field:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
 2. Finding reason of the code changes (git diff)
 3. Association rule mining for finding the pattern of code changes (git diff)
@@ -32,8 +30,11 @@ Potential research topic in SE field:
 19. Code comments extraction from code of a programming language (Classification of the content in code comment, e.g. algorithms, links, etc.)
 20. Predicting the delay of a task based on the due date of the issue and their resolution date. (e.g. issue MYFACES-2262, https://issues.apache.org/jira/browse/MYFACES-2262) (https://dl.acm.org/citation.cfm?id=2916265) ("Predicting Delays in Software Projects Using Networked Classification", Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran, Aditya Ghose)
 21. Find the probability of new files to be changed in a project. How many times a changed file would be modified in the future.
-<<<<<<< HEAD
 22. Investigating social factors from community forum (e.g. "Stochastic actor-oriented modeling for studying homophily and social influence in OSS projects" - https://link.springer.com/article/10.1007/s10664-016-9431-y)
 23. Studying Q&A site or community forum such as stack overflow, ask ubuntu, etc. (paper example: What are mobile developers asking about? A large scale study using stack overflow, https://link.springer.com/article/10.1007/s10664-015-9379-3)
-=======
->>>>>>> f27ddb9fdc0e953e300a4a3d4663f0d3b00778fc
+
+
+References:
+1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
+2. Journal of Empirical Software Engineering: https://link.springer.com/journal/10664
+3. Journal of Transaction of Software Engineering: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
