@@ -32,6 +32,8 @@ Dataset collection:
 21. Find the probability of new files to be changed in a project. How many times a changed file would be modified in the future.
 22. Investigating social factors from community forum (e.g. "Stochastic actor-oriented modeling for studying homophily and social influence in OSS projects" - https://link.springer.com/article/10.1007/s10664-016-9431-y)
 23. Studying Q&A site or community forum such as stack overflow, ask ubuntu, etc. (paper example: What are mobile developers asking about? A large scale study using stack overflow, https://link.springer.com/article/10.1007/s10664-015-9379-3)
+24. Analyzing relationship between price, rating, and popularity of apps (Ref: Investigating the relationship between price, rating, and popularity in the Blackberry World App Store, https://www.sciencedirect.com/science/article/pii/S095058491730215X)
+
 
 
 References:
