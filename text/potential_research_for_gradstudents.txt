@@ -34,6 +34,7 @@ Dataset collection:
 23. Studying Q&A site or community forum such as stack overflow, ask ubuntu, etc. (paper example: What are mobile developers asking about? A large scale study using stack overflow, https://link.springer.com/article/10.1007/s10664-015-9379-3)
 24. Analyzing relationship between price, rating, and popularity of apps (Ref: Investigating the relationship between price, rating, and popularity in the Blackberry World App Store, https://www.sciencedirect.com/science/article/pii/S095058491730215X)
 25. Finding the popular modules in a programming language. (e.g. In Python, we used "import" to import modules. We investigate the most popular modules imported in Python. It should be separated based on the Python versions. The files only captured from the latest commits. We can also extended to find the most added and deleted modules imported in python. So the files captured from all commits in a project).
+26. Mining forum thread (e.g. Eclipse forum, Stack overflow) to extract the thread purpose, link targets, unanswered questions, etc.
 
 
 
