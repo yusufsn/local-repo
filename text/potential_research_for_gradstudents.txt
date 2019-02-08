@@ -10,6 +10,7 @@ Dataset collection:
 3) https://developers.google.com/bigquery/
 4) http://www.cc.uah.es/drg/c/RHH_RAISE12_Repos.html
 
+Thesis topics:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
 2. Finding reason of the code changes (git diff)
 3. Association rule mining for finding the pattern of code changes (git diff)
