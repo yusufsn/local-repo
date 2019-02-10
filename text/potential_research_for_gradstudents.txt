@@ -38,7 +38,7 @@ Thesis topics:
 25. Finding the popular modules in a programming language. (e.g. In Python, we used "import" to import modules. We investigate the most popular modules imported in Python. It should be separated based on the Python versions. The files only captured from the latest commits. We can also extended to find the most added and deleted modules imported in python. So the files captured from all commits in a project).
 26. Mining forum thread (e.g. Eclipse forum, Stack overflow) to extract the thread purpose, link targets, unanswered questions, etc.
 27. Classifying repositories under Apache Software Foundation (https://github.com/apache/)
-
+28. Analyzing the acceptance of an answer in an online discussion forum, e.g. Stack Overflow, AskUbuntu, etc.
 
 
 References:
