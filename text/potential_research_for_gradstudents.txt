@@ -40,6 +40,7 @@ Thesis topics:
 27. Classifying repositories under Apache Software Foundation (https://github.com/apache/)
 28. Analyzing the acceptance of an answer in an online discussion forum, e.g. Stack Overflow, AskUbuntu, etc.
 29. Investigating on Reopened Bugs in Apache Projects (JIRA ITS: https://issues.apache.org/jira/browse/). We can analyze the links in the description and comments, related issues (date created), frequency and datetime of transition (open -> resolved -> reopened), priority, who fix the bug before the status changed to Reopened (we can extract from the JIRA ITS or from git commit logs using annotate). Related work: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052546, https://dl.acm.org/citation.cfm?id=2915986, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6227112, https://link.springer.com/article/10.1007/s10515-014-0162-2, https://dl.acm.org/citation.cfm?id=1134336.
+30. Mining information from bug reports (e.g. JIRA ITS). The attribute information are inspired from https://ieeexplore.ieee.org/abstract/document/7180132.
 
 
 References:
