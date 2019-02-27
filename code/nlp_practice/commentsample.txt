@@ -1,0 +1,15 @@
+/*
+ * UNIX password, and DES, encryption.
+ * By Tom Truscott, trt@rti.rti.org,
+ * from algorithms by Robert W. Baldwin and James Gillogly.
+ *
+ * References:
+ * "Mathematical Cryptology for Computer Scientists and Mathematicians,"
+ * by Wayne Patterson, 1987, ISBN 0-8476-7438-X.
+ *
+ * "Password Security: A Case History," R. Morris and Ken Thompson,
+ * Communications of the ACM, vol. 22, pp. 594-597, Nov. 1979.
+ *
+ * "DES will be Totally Insecure within Ten Years," M.E. Hellman,
+ * IEEE Spectrum, vol. 16, pp. 32-39, July 1979.
+ */
