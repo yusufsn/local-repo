@@ -43,7 +43,7 @@ Thesis topics:
 30. Mining information from bug reports (e.g. JIRA ITS). The attribute information are inspired from https://ieeexplore.ieee.org/abstract/document/7180132.
 31. Classifying the title of forum threads in an online discussion such as Stack Overflow, AskUbuntu, Eclipse Forum. Does it have relationship with the fast answer?
 32. Studying the deleted files in a GitHub project. Reason, objective of deletion, type of file, permanent or temporary deletion, the tendency of restoration, time between deletion and restoration, etc.
-33. Studying on code comments. 
+33. Studying on code comments: links, citations, algorithms, etc. 
 
 
 References:
