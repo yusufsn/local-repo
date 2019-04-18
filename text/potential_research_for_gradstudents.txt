@@ -44,7 +44,10 @@ Thesis topics:
 31. Classifying the title of forum threads in an online discussion such as Stack Overflow, AskUbuntu, Eclipse Forum. Does it have relationship with the fast answer?
 32. Studying the deleted files in a GitHub project. Reason, objective of deletion, type of file, permanent or temporary deletion, the tendency of restoration, time between deletion and restoration, etc.
 33. Analyzing code comment, code, etc. related to code can be find on https://searchcode.com/
+<<<<<<< HEAD
 34. TDA for analyzing Q&A forums such as stack overflow. The related-metrics could be #userreputation, #questions, #answers, #activities etc.
+=======
+>>>>>>> 466ccbc13355cb986b513cee7b65a24b7dcbe8df
 
 
 References:
