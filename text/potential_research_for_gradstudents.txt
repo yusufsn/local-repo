@@ -48,6 +48,7 @@ Thesis topics:
 34. TDA for analyzing Q&A forums such as stack overflow. The related-metrics could be #userreputation, #questions, #answers, #activities etc.
 =======
 >>>>>>> 466ccbc13355cb986b513cee7b65a24b7dcbe8df
+35. Counting frequency of SQL usage in some projects. Keywords: "SELECT" in source code files.
 
 
 References:
