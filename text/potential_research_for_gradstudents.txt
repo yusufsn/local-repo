@@ -49,6 +49,14 @@ Thesis topics:
 =======
 >>>>>>> 466ccbc13355cb986b513cee7b65a24b7dcbe8df
 35. Counting frequency of SQL usage in some projects. Keywords: "SELECT" in source code files.
+36. Why did developers delete source files?
+    - Reason of deletion? Duplication, contain bugs, or others? 
+    - Does it correlate with new version release?
+    - How many changes occur before the files were deleted?
+    - How old of files in a project before deletion? Old or new files?
+    - What type of files that frequently deleted?
+    - Possibility of deleted files to be restored? Same filename or same code with different filename?
+    - Is it possible to predict the files would be deleted in the future?
 
 
 References:
