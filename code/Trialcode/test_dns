@@ -1,0 +1,31 @@
+---------- dns01-sh01 ---------
+zone "celina.com." IN {
+zone "global.celina.com." {
+zone "storage.celina.com." {
+zone "gusain.com" {
+zone "." IN {
+zone "10.in-addr.arpa." IN {
+zone "99.139.in-addr.arpa." IN {
+zone "190.158.in-addr.arpa." IN {
+zone "172.in-addr.arpa." IN {
+zone "localdomain." IN {
+zone "localhost." IN {
+zone "0.0.127.in-addr.arpa." IN {
+zone "255.in-addr.arpa." IN {
+zone "0.in-addr.arpa." IN {
+
+---------- dns02-sh02 ---------
+zone "celina.com." IN {
+zone "global.celina.com." {
+zone "storage.celina.com." {
+zone "gusain.com" {
+zone "." IN {
+zone "10.in-addr.arpa." IN {
+zone "99.139.in-addr.arpa." IN {
+zone "190.158.in-addr.arpa." IN {
+zone "172.in-addr.arpa." IN {
+zone "localdomain." IN {
+zone "localhost." IN {
+zone "0.0.127.in-addr.arpa." IN {
+zone "255.in-addr.arpa." IN {
+zone "0.in-addr.arpa." IN {
