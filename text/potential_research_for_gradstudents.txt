@@ -59,6 +59,7 @@ Thesis topics:
     - Is it possible to predict the files would be deleted in the future?
 37. Investigate code comments: algorithms, links, citations, etc.
 38. How good is your README file? Reference: https://ieeexplore.ieee.org/document/6092562
+39. Finding first date of commit by a committer, activeness of a committer, latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent)
 
 
 References:
