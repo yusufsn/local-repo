@@ -57,6 +57,8 @@ Thesis topics:
     - What type of files that frequently deleted?
     - Possibility of deleted files to be restored? Same filename or same code with different filename?
     - Is it possible to predict the files would be deleted in the future?
+37. Investigate code comments: algorithms, links, citations, etc.
+38. How good is your README file? Reference: https://ieeexplore.ieee.org/document/6092562
 
 
 References:
