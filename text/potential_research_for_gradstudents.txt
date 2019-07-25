@@ -44,10 +44,7 @@ Thesis topics:
 31. Classifying the title of forum threads in an online discussion such as Stack Overflow, AskUbuntu, Eclipse Forum. Does it have relationship with the fast answer?
 32. Studying the deleted files in a GitHub project. Reason, objective of deletion, type of file, permanent or temporary deletion, the tendency of restoration, time between deletion and restoration, etc.
 33. Analyzing code comment, code, etc. related to code can be find on https://searchcode.com/
-<<<<<<< HEAD
 34. TDA for analyzing Q&A forums such as stack overflow. The related-metrics could be #userreputation, #questions, #answers, #activities etc.
-=======
->>>>>>> 466ccbc13355cb986b513cee7b65a24b7dcbe8df
 35. Counting frequency of SQL usage in some projects. Keywords: "SELECT" in source code files.
 36. Why did developers delete source files?
     - Reason of deletion? Duplication, contain bugs, or others? 
@@ -60,7 +57,10 @@ Thesis topics:
 37. Investigate code comments: algorithms, links, citations, etc.
 38. How good is your README file? Reference: https://ieeexplore.ieee.org/document/6092562
 39. Finding first date of commit by a committer, activeness of a committer, latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent).
-
+38. How good is your README file? Reference: https://ieeexplore.ieee.org/document/6092562
+39. Finding first date of commit by a committer, activeness of a committer, latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent)
+40. Finding the impact of developers experience for a project.
+41. Who commit what in a project? e.g. A committer commit only specific files, changed files, type of changes, etc.
 
 
 References:
