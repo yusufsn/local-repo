@@ -61,6 +61,7 @@ Thesis topics:
 39. Finding first date of commit by a committer, activeness of a committer, latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent). What is the most frequent activities conducted by experienced developers?
 40. Finding the impact of developers experience for a project.
 41. Who commit what in a project? e.g. A committer commit only specific files, changed files, type of changes, etc.
+42. The impact of different channels used in a project to the source code.
 
 
 References:
