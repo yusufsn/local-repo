@@ -62,6 +62,7 @@ Thesis topics:
 40. Finding the impact of developers experience for a project.
 41. Who commit what in a project? e.g. A committer commit only specific files, changed files, type of changes, etc.
 42. The impact of different channels used in a project to the source code.
+43. Analyzing ecosystem (data can be downloaded from https://libraries.io/data , sample of study can be seen on https://github.com/NAIST-SE/TDA_Communication_Channels)
 
 
 References:
