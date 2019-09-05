@@ -9,6 +9,7 @@ Dataset collection:
 2) https://cloud.google.com/bigquery/
 3) https://developers.google.com/bigquery/
 4) http://www.cc.uah.es/drg/c/RHH_RAISE12_Repos.html
+5) ghTorrent database: http://ghtorrent.org/downloads.html (Reference: https://www.researchgate.net/publication/264799490_Lean_GHTorrent_GitHub_data_on_demand)
 
 Thesis topics:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
