@@ -64,6 +64,7 @@ Thesis topics:
 41. Who commit what in a project? e.g. A committer commit only specific files, changed files, type of changes, etc.
 42. The impact of different channels used in a project to the source code.
 43. Analyzing ecosystem (data can be downloaded from https://libraries.io/data , sample of study can be seen on https://github.com/NAIST-SE/TDA_Communication_Channels)
+44. Analysing time duration for a developer to take a break from contributing to a project. Reference: https://www.researchgate.net/publication/331978294_Why_do_developers_take_breaks_from_contributing_to_OSS_projects_A_preliminary_analysis
 
 
 References:
