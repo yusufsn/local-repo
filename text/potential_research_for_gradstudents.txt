@@ -67,6 +67,7 @@ Thesis topics:
 43. Analyzing ecosystem (data can be downloaded from https://libraries.io/data , sample of study can be seen on https://github.com/NAIST-SE/TDA_Communication_Channels)
 44. Analysing time duration for a developer to take a break from contributing to a project. Reference: https://www.researchgate.net/publication/331978294_Why_do_developers_take_breaks_from_contributing_to_OSS_projects_A_preliminary_analysis
 45. TDA analysis for comparing projects based on number of stars, number of commits, number of contributors, period, number of LOC, changed LOC etc.
+46. What contributions made by newcomers in GitHub projects? Write documentations, coding, etc.?
 
 
 References:
