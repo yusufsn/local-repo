@@ -71,6 +71,7 @@ Thesis topics:
 45. TDA analysis for comparing projects based on number of stars, number of commits, number of contributors, period, number of LOC, changed LOC etc.
 46. What contributions made by newcomers in GitHub projects? Write documentations, coding, etc.?
 47. Categorizing commits manually (annotation).
+48. DiffLister: Detecting disagreement of code changes between diff algorithms, including disagreement ratio
 
 
 References:
