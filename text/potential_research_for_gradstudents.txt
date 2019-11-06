@@ -75,6 +75,7 @@ Thesis topics:
 49. Categorizing GitHub repositories into "toys" and "not toys", also classifying the activity of repositories: "less active", "medium active", and "very active" based on the number of commits.
 50. Investigating vulnerability from CVE and NVD databases. https://cve.mitre.org/data/downloads/index.html, https://nvd.nist.gov/vuln/data-feeds
 51. Investigating a python function glob.glob(). Link: https://www.reddit.com/r/Python/comments/dh2qwd/more_than_100_scientific_articles_may_be/
+52. Do potential bug-introducing have different origins? Ref: BUGINNINGS: identifying the origins of a bug, https://dl.acm.org/citation.cfm?doid=1730874.1730879
 
 
 References:
