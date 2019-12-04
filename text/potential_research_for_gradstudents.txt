@@ -73,7 +73,7 @@ Thesis topics:
 47. Categorizing commits manually (annotation).
 48. DiffLister: Detecting disagreement of code changes between diff algorithms, including disagreement ratio.
 49. Categorizing GitHub repositories into "toys" and "not toys", also classifying the activity of repositories: "less active", "medium active", and "very active" based on the number of commits.
-50. Investigating vulnerability from CVE and NVD databases. https://cve.mitre.org/data/downloads/index.html, https://nvd.nist.gov/vuln/data-feeds
+50. Investigating vulnerability from CVE and NVD databases. Using TDA, we can investigate the evolution of providing information of CVE ID from year to year. https://cve.mitre.org/data/downloads/index.html, https://nvd.nist.gov/vuln/data-feeds
 51. Investigating a python function glob.glob(). Link: https://www.reddit.com/r/Python/comments/dh2qwd/more_than_100_scientific_articles_may_be/
 52. Do potential bug-introducing have different origins? Ref: BUGINNINGS: identifying the origins of a bug, https://dl.acm.org/citation.cfm?doid=1730874.1730879
 53. Analysis vulnerability from data archive https://github.com/CERTCC/Vulnerability-Data-Archive, integrated with NVD and CVE Databases: https://nvd.nist.gov/ . For CVE details, please check at: https://www.cvedetails.com/
