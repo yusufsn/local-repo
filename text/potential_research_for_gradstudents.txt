@@ -83,3 +83,4 @@ References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
 2. Journal of Empirical Software Engineering: https://link.springer.com/journal/10664
 3. Journal of Transaction of Software Engineering: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
+4. Journal of Systems and Software: https://www.sciencedirect.com/journal/journal-of-systems-and-software
