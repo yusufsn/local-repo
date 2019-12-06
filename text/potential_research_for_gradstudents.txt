@@ -11,7 +11,9 @@ Dataset collection:
 4) http://www.cc.uah.es/drg/c/RHH_RAISE12_Repos.html
 5) ghTorrent database: http://ghtorrent.org/downloads.html (Reference: https://www.researchgate.net/publication/264799490_Lean_GHTorrent_GitHub_data_on_demand)
 6) Common Vulnerabilities and Exposures database: https://cve.mitre.org/data/downloads/index.html
-7) National Vulnerabilities Database : https://nvd.nist.gov/vuln/data-feeds
+7) National Vulnerabilities Database: https://nvd.nist.gov/vuln/data-feeds
+8) CERT/CC Vulnerability Notes Database: https://www.kb.cert.org/vuls/
+9) Vulnerability Database: https://vuldb.com
 
 Thesis topics:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
