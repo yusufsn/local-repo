@@ -81,6 +81,7 @@ Thesis topics:
 53. Analysis vulnerability from data archive https://github.com/CERTCC/Vulnerability-Data-Archive, integrated with NVD and CVE Databases: https://nvd.nist.gov/ . For CVE details, please check at: https://www.cvedetails.com/
 54. Investigating new projects in GitHub. Are new projects toys, non-toys?
 55. Investigating specification documents from https://datatracker.ietf.org/doc/
+56. Studying inactive projects (dead projects or paused projects based on the last commit date to see the time span to date).
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
