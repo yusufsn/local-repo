@@ -79,7 +79,7 @@ Thesis topics:
 51. Investigating a python function glob.glob(). Link: https://www.reddit.com/r/Python/comments/dh2qwd/more_than_100_scientific_articles_may_be/
 52. Do potential bug-introducing have different origins? Ref: BUGINNINGS: identifying the origins of a bug, https://dl.acm.org/citation.cfm?doid=1730874.1730879
 53. Analysis vulnerability from data archive https://github.com/CERTCC/Vulnerability-Data-Archive, integrated with NVD and CVE Databases: https://nvd.nist.gov/ . For CVE details, please check at: https://www.cvedetails.com/
-54. Investigating new projects in GitHub. Are new projects toys, non-toys?
+54. Investigating new projects in GitHub. Are new projects toys, non-toys, social, web, etc.?
 55. Investigating specification documents from https://datatracker.ietf.org/doc/
 56. Studying inactive projects (dead projects or paused projects based on the last commit date to see the time span to date).
 
