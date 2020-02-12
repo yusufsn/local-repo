@@ -82,6 +82,7 @@ Thesis topics:
 54. Investigating new projects in GitHub. Are new projects toys, non-toys, social, web, etc.?
 55. Investigating specification documents from https://datatracker.ietf.org/doc/
 56. Studying inactive projects (dead projects or paused projects based on the last commit date to see the time span to date).
+57. Investigating newcomers in StackOverflow.
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
