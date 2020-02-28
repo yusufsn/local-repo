@@ -83,6 +83,7 @@ Thesis topics:
 55. Investigating specification documents from https://datatracker.ietf.org/doc/
 56. Studying inactive projects (dead projects or paused projects based on the last commit date to see the time span to date).
 57. Investigating newcomers in StackOverflow.
+58. Build Question-Answering System using python reference: http://nlpprogress.com/english/question_answering.html , https://towardsdatascience.com/how-to-create-your-own-question-answering-system-easily-with-python-2ef8abc8eb5 , tool: https://github.com/cdqa-suite/cdQA
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
