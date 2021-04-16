@@ -1,4 +1,4 @@
-GitHub Projects criterion needs to be met:
+GitHub Projects criterion should meet:
 1) Popularity score of at least 100 stars
 2) Modified by at least 50 contributors
 3) Larger than 100 Mb (medium) or 1 Gb (large)
