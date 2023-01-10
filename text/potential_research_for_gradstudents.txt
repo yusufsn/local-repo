@@ -84,6 +84,7 @@ Thesis topics:
 58. Build Question-Answering System using python reference: http://nlpprogress.com/english/question_answering.html , https://towardsdatascience.com/how-to-create-your-own-question-answering-system-easily-with-python-2ef8abc8eb5 , tool: https://github.com/cdqa-suite/cdQA
 59. Analyzing communication models in a forum/Q&A platform. Reference: https://www.researchgate.net/publication/224133858_Meetings_matter_Effects_of_work_group_communication_on_organizational_success, https://ieeexplore.ieee.org/abstract/document/8550785.
 60. Sentiment analysis on Q&A platforms, such as StackOverflow, Eclipse forum, AskUbuntu, etc.
+61. Code competency classification using pycefr (https://github.com/anapgh/pycefr)
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
