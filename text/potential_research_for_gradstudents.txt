@@ -70,7 +70,7 @@ Thesis topics:
 44. Analysing time duration for a developer to take a break from contributing to a project. Reference: https://www.researchgate.net/publication/331978294_Why_do_developers_take_breaks_from_contributing_to_OSS_projects_A_preliminary_analysis
 45. TDA analysis for comparing projects based on number of stars, number of commits, number of contributors, period, number of LOC, changed LOC etc.
 46. What contributions made by newcomers in GitHub projects? Write documentations, coding, etc.?
-47. Categorizing commits manually (annotation).
+47. Categorizing commits manually (annotation). Extract the data using PyDriller.
 48. DiffLister: Detecting disagreement of code changes between diff algorithms, including disagreement ratio.
 49. Categorizing GitHub repositories into "toys" and "not toys", also classifying the activity of repositories: "less active", "medium active", and "very active" based on the number of commits.
 50. Investigating vulnerability from CVE and NVD databases. Using TDA, we can investigate the evolution of providing information of CVE ID from year to year. https://cve.mitre.org/data/downloads/index.html, https://nvd.nist.gov/vuln/data-feeds
@@ -85,6 +85,7 @@ Thesis topics:
 59. Analyzing communication models in a forum/Q&A platform. Reference: https://www.researchgate.net/publication/224133858_Meetings_matter_Effects_of_work_group_communication_on_organizational_success, https://ieeexplore.ieee.org/abstract/document/8550785.
 60. Sentiment analysis on Q&A platforms, such as StackOverflow, Eclipse forum, AskUbuntu, etc.
 61. Code competency classification using pycefr (https://github.com/anapgh/pycefr)
+62. Code similarity using NCDSearch (https://github.com/takashi-ishio/NCDSearch)
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
