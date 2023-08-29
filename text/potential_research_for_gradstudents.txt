@@ -14,6 +14,7 @@ Dataset collection:
 7) National Vulnerabilities Database: https://nvd.nist.gov/vuln/data-feeds
 8) CERT/CC Vulnerability Notes Database: https://www.kb.cert.org/vuls/
 9) Vulnerability Database: https://vuldb.com
+10) Libraries: https://libraries.io/
 
 Thesis topics:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
