@@ -87,6 +87,7 @@ Thesis topics:
 60. Sentiment analysis on Q&A platforms, such as StackOverflow, Eclipse forum, AskUbuntu, etc.
 61. Code competency classification using pycefr (https://github.com/anapgh/pycefr)
 62. Code similarity using NCDSearch (https://github.com/takashi-ishio/NCDSearch)
+63. Investigation on participation patterns of successful software developers
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
