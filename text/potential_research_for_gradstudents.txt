@@ -89,6 +89,8 @@ Thesis topics:
 62. Code similarity using NCDSearch (https://github.com/takashi-ishio/NCDSearch)
 63. Investigation on participation patterns of successful software developers
 64. Study on ChatGPT link sharing (Source: https://github.com/NAIST-SE/DevGPT)
+65. Can LLMs differentiate between functions, variables, methods, libraries, etc. in a programming language? Or between programming languages?
+66. Can LLMs decide which diff algorithm (Myers or Histogram) is better in producing diff files? Can LLMs produce diff files? (Main reference: https://link.springer.com/article/10.1007/s10664-019-09772-z)
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
