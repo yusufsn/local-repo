@@ -18,59 +18,59 @@ Dataset collection:
 
 Thesis topics:
 1. Classification of commit, committer, author, date, message etc. (git log) (read the introduction from this paper: http://ieeexplore.ieee.org/document/7816475/)
-2. Finding reason of the code changes (git diff)
+2. Finding the reason for the code changes (git diff)
 3. Association rule mining for finding the pattern of code changes (git diff)
-4. Comparing number of commit, number of committer, number of author, number of changes (add_loc, del_loc), date etc. between projects with the same programming language, or different projects different programming language. (git log)
-5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of author, the starting date of commit etc. (git log, git diff)
+4. Comparing the number of commits, number of committers, number of authors, number of changes (add_loc, del_loc), date etc. between projects with the same programming language, or different projects with different programming languages. (git log)
+5. Finding the most popular programming language in some projects in GitHub repositories by comparing the number of committer, number of authors, the starting date of commit etc. (git log, git diff)
 6. TDA Implementation in mining software repositories (git log)
 7. Project version comparison (git tag)
-8. How frequent are popular Android apps updated? (https://link.springer.com/article/10.1007/s10664-015-9388-2)
-9. Comparing the entropy of changes after change of code (https://goo.gl/pYnwJr)
+8. How frequently are popular Android apps updated? (https://link.springer.com/article/10.1007/s10664-015-9388-2)
+9. Comparing the entropy of changes after the change of code (https://goo.gl/pYnwJr)
 10. Predicting the delay of bug fixing or something else (http://rdcu.be/teAy)
 11. Large-scale GitHub study, containing variables (http://rdcu.be/twSy)
 12. Classification of author's action, i.e update, delete, add, move etc. in GitHub (git log)
-13. Literature review, searching papers from some particular journals / proceedings related with software mining repositories. (http://romisatriawahono.net/publications/2016/wahono-slr-may2016.pdf), (http://journal.ilmukomputer.org/index.php/jse/article/view/47)
+13. Literature review, searching papers from some particular journals/proceedings related to software mining repositories. (http://romisatriawahono.net/publications/2016/wahono-slr-may2016.pdf), (http://journal.ilmukomputer.org/index.php/jse/article/view/47)
 14. Classification of changes in a project (libraries, functions, comments, loops etc.) (http://ieeexplore.ieee.org/document/7816466/)
 15. Systematic mapping study, to visualize the research trends discovery. (https://doi.org/10.1016/j.infsof.2015.03.007)
-16. Classification of deleted lines as buggylines, function, loop, conditional statement etc. ("Prevalence of Confusing Code in Software Projects" Link: https://atomsofconfusion.com/papers/atom-finder-msr-2018.pdf)
-17. Statistic study (e.g. counting the number of added / deleted lines divided by period, example by year 2010, 2011 etc.)
-18. Finding the version of a project that the most used by developers.
+16. Classification of deleted lines as buggylines, function, loop, conditional statements etc. ("Prevalence of Confusing Code in Software Projects" Link: https://atomsofconfusion.com/papers/atom-finder-msr-2018.pdf)
+17. Statistic study (e.g. counting the number of added/deleted lines divided by period, for example by year 2010, 2011 etc.)
+18. Finding the version of a project that is the most used by developers.
 19. Code comments extraction from code of a programming language (Classification of the content in code comment, e.g. algorithms, links, etc.)
-20. Predicting the delay of a task based on the due date of the issue and their resolution date. (e.g. issue MYFACES-2262, https://issues.apache.org/jira/browse/MYFACES-2262) (https://dl.acm.org/citation.cfm?id=2916265) ("Predicting Delays in Software Projects Using Networked Classification", Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran, Aditya Ghose)
-21. Find the probability of new files to be changed in a project. How many times a changed file would be modified in the future.
+20. Predicting the delay of a task based on the due date of the issue and its resolution date. (e.g. issue MYFACES-2262, https://issues.apache.org/jira/browse/MYFACES-2262) (https://dl.acm.org/citation.cfm?id=2916265) ("Predicting Delays in Software Projects Using Networked Classification", Morakot Choetikertikul, Hoa Khanh Dam, Truyen Tran, Aditya Ghose)
+21. Find the probability of new files being changed in a project. How many times a changed file would be modified in the future?
 22. Investigating social factors from community forum (e.g. "Stochastic actor-oriented modeling for studying homophily and social influence in OSS projects" - https://link.springer.com/article/10.1007/s10664-016-9431-y)
-23. Studying Q&A site or community forum such as stack overflow, ask ubuntu, etc. (paper example: What are mobile developers asking about? A large scale study using stack overflow, https://link.springer.com/article/10.1007/s10664-015-9379-3)
-24. Analyzing relationship between price, rating, and popularity of apps (Ref: Investigating the relationship between price, rating, and popularity in the Blackberry World App Store, https://www.sciencedirect.com/science/article/pii/S095058491730215X)
-25. Finding the popular modules in a programming language. (e.g. In Python, we used "import" to import modules. We investigate the most popular modules imported in Python. It should be separated based on the Python versions. The files only captured from the latest commits. We can also extended to find the most added and deleted modules imported in python. So the files captured from all commits in a project).
+23. Studying Q&A sites or community forums such as stack overflow, ask ubuntu, etc. (paper example: What are mobile developers asking about? A large scale study using stack overflow, https://link.springer.com/article/10.1007/s10664-015-9379-3)
+24. Analyzing the relationship between price, rating, and popularity of apps (Ref: Investigating the relationship between price, rating, and popularity in the Blackberry World App Store, https://www.sciencedirect.com/science/article/pii/S095058491730215X)
+25. Finding the popular modules in a programming language. (e.g. In Python, we used "import" to import modules. We investigate the most popular modules imported in Python. It should be separated based on the Python versions. The files are only captured from the latest commits. We can also extend to find the most added and deleted modules imported in Python. So the files captured from all commits in a project).
 26. Mining forum threads (e.g. Eclipse forum, Stack overflow) to extract the thread purposes, link targets, unanswered questions, etc. 
 (Stack overflow dataset: https://zenodo.org/record/4415593#.YTr0FtMzY-Q Paper: https://empirical-software.engineering/sotorrent/)
 27. Classifying repositories under Apache Software Foundation (https://github.com/apache/)
 28. Analyzing the acceptance of an answer in an online discussion forum, e.g. Stack Overflow, AskUbuntu, etc.
-29. Investigating on Reopened Bugs in Apache Projects (JIRA ITS: https://issues.apache.org/jira/browse/). We can analyze the links in the description and comments, related issues (date created), frequency and datetime of transition (open -> resolved -> reopened), priority, who fix the bug before the status changed to Reopened (we can extract from the JIRA ITS or from git commit logs using annotate). Related work: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052546, https://dl.acm.org/citation.cfm?id=2915986, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6227112, https://link.springer.com/article/10.1007/s10515-014-0162-2, https://dl.acm.org/citation.cfm?id=1134336.
-30. Mining information from bug reports (e.g. JIRA ITS). The attribute information are inspired from https://ieeexplore.ieee.org/abstract/document/7180132.
-31. Classifying the title of forum threads in an online discussion such as Stack Overflow, AskUbuntu, Eclipse Forum. Does it have relationship with the fast answer?
-32. Studying the deleted files in a GitHub project. Reason, objective of deletion, type of file, permanent or temporary deletion, the tendency of restoration, time between deletion and restoration, etc.
-33. Analyzing code comment, code, etc. related to code can be find on https://searchcode.com/
-34. TDA for analyzing Q&A forums such as stack overflow. The related-metrics could be #userreputation, #questions, #answers, #activities etc.
+29. Investigating Reopened Bugs in Apache Projects (JIRA ITS: https://issues.apache.org/jira/browse/). We can analyze the links in the description and comments, related issues (date created), frequency and datetime of transition (open -> resolved -> reopened), priority, who fix the bug before the status changed to Reopened (we can extract from the JIRA ITS or from git commit logs using annotate). Related work: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052546, https://dl.acm.org/citation.cfm?id=2915986, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6227112, https://link.springer.com/article/10.1007/s10515-014-0162-2, https://dl.acm.org/citation.cfm?id=1134336.
+30. Mining information from bug reports (e.g. JIRA ITS). The attribute information is inspired by https://ieeexplore.ieee.org/abstract/document/7180132.
+31. Classifying the title of forum threads in an online discussion such as Stack Overflow, AskUbuntu, or Eclipse Forum. Does it have a relationship with the fast answer?
+32. Studying the deleted files in a GitHub project. The reason, objective of deletion, type of file, permanent or temporary deletion, the tendency of restoration, time between deletion and restoration, etc.
+33. Analyzing code comments, code, etc. related to code can be found on https://searchcode.com/
+34. TDA for analyzing Q&A forums such as stack overflow. The related metrics could be #userreputation, #questions, #answers, #activities etc.
 35. Counting frequency of SQL usage in some projects. Keywords: "SELECT" in source code files.
 36. Why did developers delete source files?
-    - Reason of deletion? Duplication, contain bugs, or others? 
-    - Does it correlate with new version release?
-    - How many changes occur before the files were deleted?
+    - Reason for deletion? Duplication, contain bugs, or others? 
+    - Does it correlate with the new version release?
+    - How many changes occurred before the files were deleted?
     - How old of files in a project before deletion? Old or new files?
     - What type of files that frequently deleted?
-    - Possibility of deleted files to be restored? Same filename or same code with different filename?
-    - Is it possible to predict the files would be deleted in the future?
+    - Possibility of deleted files to be restored? Same filename or the same code with a different filename?
+    - Is it possible to predict the files will be deleted in the future?
 37. Investigate code comments: algorithms, links, citations, etc.
 38. How good is your README file? Reference: https://ieeexplore.ieee.org/document/6092562
-39. Finding first date of commit by a committer, activeness of a committer, latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent). What is the most frequent activities conducted by experienced developers?
-40. Finding the impact of developers experience for a project.
-41. Who commit what in a project? e.g. A committer commit only specific files, changed files, type of changes, etc.
-42. The impact of different channels used in a project to the source code.
-43. Analyzing ecosystem (data can be downloaded from https://libraries.io/data , sample of study can be seen on https://github.com/NAIST-SE/TDA_Communication_Channels)
+39. Finding the first date of commit by a committer, activeness of a committer, the latest date of commit by a committer, number of participation of committer in projects, etc (GhTorrent). What are the most frequent activities conducted by experienced developers?
+40. Finding the impact of developers' experience for a project.
+41. Who commits what in a project? e.g. A committer commits only specific files, changed files, type of changes, etc.
+42. The impact of different channels used in a project on the source code.
+43. Analyzing ecosystem (data can be downloaded from https://libraries.io/data , the sample of the study can be seen on https://github.com/NAIST-SE/TDA_Communication_Channels)
 44. Analysing time duration for a developer to take a break from contributing to a project. Reference: https://www.researchgate.net/publication/331978294_Why_do_developers_take_breaks_from_contributing_to_OSS_projects_A_preliminary_analysis
-45. TDA analysis for comparing projects based on number of stars, number of commits, number of contributors, period, number of LOC, changed LOC etc.
-46. What contributions were made by newcomers in GitHub projects? Write documentations, coding, etc.?
+45. TDA analysis for comparing projects based on the number of stars, number of commits, number of contributors, period, number of LOC, changed LOC etc.
+46. What contributions were made by newcomers to GitHub projects? Write documentation, coding, etc.?
 47. Categorizing commits manually (annotation). Extract the data using PyDriller.
 48. DiffLister: Detecting disagreement of code changes between diff algorithms, including disagreement ratio.
 49. Categorizing GitHub repositories into "toys" and "not toys", also classifying the activity of repositories: "less active", "medium active", and "very active" based on the number of commits.
@@ -93,6 +93,36 @@ Thesis topics:
 66. Can LLMs decide which diff algorithm (Myers or Histogram) is better for producing diff files? Can LLMs produce diff files? (Main reference: https://link.springer.com/article/10.1007/s10664-019-09772-z)
 67. Can LLMs provide information on RFCs (Request for Comment) according to the RFC Data Tracker? Source: https://datatracker.ietf.org
 68. Do closed issues in GitHub projects indicate that the issues have been addressed?
+69. Code Readability Analysis: 
+    - Investigate the impact of different coding styles on readability and maintainability.
+    - Compare the readability of code written by beginners and experienced developers.
+70. Bug Prediction in Open-Source Software
+    - Analyze open-source repositories to identify common patterns in buggy code.
+    - Apply machine learning techniques to predict potential bugs.
+71. Automated Code Commenting
+    - Develop a tool to generate comments for source code automatically.
+    - Evaluate the effectiveness of automated comments compared to manual comments.
+72. Testing Practices in Agile Development
+    - Analyze how small development teams conduct software testing in agile environments.
+    - Study the effectiveness of different automated testing tools.
+73. Usability Evaluation of Code Search Engines
+    - Compare the usability of different code search tools like GitHub search, Sourcegraph, and Google.
+    - Investigate how developers search for code snippets and solutions online.
+74. Impact of Software Documentation on Developer Productivity
+    - Study how well-written documentation improves software maintenance.
+    - Compare different documentation formats (e.g., inline comments, wikis, README files).
+75. Analysis of Common Errors in React Development
+    - Identify frequent errors faced by React developers on Stack Overflow.
+    - Propose solutions or best practices to mitigate these errors.
+76. Software Security Awareness among Developers
+    - Survey developers to assess their knowledge of secure coding practices.
+    - Identify common misconceptions about software security.
+77. Low-Code and No-Code Development Adoption
+    - Analyze the effectiveness of low-code platforms for small businesses.
+    - Compare traditional coding vs. low-code approaches in terms of efficiency.
+78. AI-Powered Code Review Assistance
+    - Evaluate how AI tools (e.g., GitHub Copilot, ChatGPT) assist in code review.
+    - Compare AI-assisted code review with human review in terms of accuracy and efficiency.
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
