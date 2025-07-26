@@ -123,6 +123,7 @@ Thesis topics:
 78. AI-Powered Code Review Assistance
     - Evaluate how AI tools (e.g., GitHub Copilot, ChatGPT) assist in code review.
     - Compare AI-assisted code review with human review in terms of accuracy and efficiency.
+79. Association rule mining on Stack Overflow question tags.
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
