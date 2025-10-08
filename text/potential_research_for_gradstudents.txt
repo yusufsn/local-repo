@@ -124,9 +124,11 @@ Thesis topics:
     - Evaluate how AI tools (e.g., GitHub Copilot, ChatGPT) assist in code review.
     - Compare AI-assisted code review with human review in terms of accuracy and efficiency.
 79. Association rule mining on Stack Overflow question tags.
+80. LLMs for code summarization, code review, bug prediction, etc.
 
 References:
 1. Journal of Information and Software Technology: https://www.sciencedirect.com/journal/information-and-software-technology/issues (Many papers about systematic mapping study)
 2. Journal of Empirical Software Engineering: https://link.springer.com/journal/10664
 3. Journal of Transaction of Software Engineering: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
 4. Journal of Systems and Software: https://www.sciencedirect.com/journal/journal-of-systems-and-software
+
