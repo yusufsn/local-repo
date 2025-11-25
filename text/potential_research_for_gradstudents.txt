@@ -128,7 +128,7 @@ Thesis topics:
 81. Comparing AI platforms' abilities in code translation (e.g., Java to Python, Python to Java).
 82. AI for translating the algorithm and flowchart to source code.
 83. Investigation of AI-related discussion on Stack Overflow (Keywords: AI-platform, ChatGPT, Deepseek, Gemini, etc.)
-84. How safe are your solutions? An LLMs-based Code Summaries of SO Answers Pros and Cons (Only answers with code snippet, e.g., https://chatgpt.com/share/6925129c-0454-8009-9e06-224f3431a8e5).
+84. How safe are your solutions? An LLMs-based Code Summaries of SO Answers (Only answers with code snippet, e.g., https://chatgpt.com/share/6925129c-0454-8009-9e06-224f3431a8e5).
 
 References:
 1. [Journal of Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology/issues) (Many papers about systematic mapping study)
@@ -136,6 +136,7 @@ References:
 3. [Journal of Transactions of Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 4. [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 5. [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+
 
 
 
