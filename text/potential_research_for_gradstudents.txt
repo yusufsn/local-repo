@@ -131,6 +131,14 @@ Thesis topics:
 83. Investigation of AI-related discussion on Stack Overflow (Keywords: AI-platform, ChatGPT, Deepseek, Gemini, etc.)
 84. How safe are your solutions? An LLMs-based Code Summaries of SO Answers (Only answers with code snippet, e.g., https://chatgpt.com/share/6925129c-0454-8009-9e06-224f3431a8e5).
 
+Potential Topics for Undergraduate Students 2026:
+| No | Topics | Description |
+|---|---|---|
+| 1 | Code Quality Analysis in Open-Source Repositories | Compare the code quality of popular vs. less popular GitHub repositories. Measure code quality using static analysis tools like SonarQube or ESLint. |
+| 2 | Documentation Quality and Its Impact on Repository Popularity | Examine how well-written documentation affects repository stars and forks. Use natural language processing (NLP) techniques to assess documentation clarity. |
+| 3 | Developer Communication in GitHub Issues and Pull Requests | Analyze sentiment and collaboration patterns in GitHub discussions. Identify common challenges developers face when discussing issues. |
+|---|---|---|
+
 References:
 1. [Journal of Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology/issues) (Many papers about systematic mapping study)
 2. [Journal of Empirical Software Engineering](https://link.springer.com/journal/10664)
